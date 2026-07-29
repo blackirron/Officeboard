@@ -1,6 +1,6 @@
 # Officeboard
 
-Manage your whole company from a single screen — including AI "employees" that get the work done without a real payroll.
+Manage your whole company from a single screen, including AI "employees" that get the work done without a real payroll.
 
 🔗 **Live demo:** https://officeboard.bolt.host
 
@@ -10,4 +10,4 @@ Officeboard is a control-panel style dashboard for running a lean operation: ass
 
 ## Status
 
-Built and deployed as a Bolt project; the live app is the source of truth. This repository tracks the project on GitHub as a reference point — see the demo link above for the actual product.
+Built and deployed as a Bolt project; the live app is the source of truth. This repository tracks the project on GitHub as a reference point - see the demo link above for the actual product.
